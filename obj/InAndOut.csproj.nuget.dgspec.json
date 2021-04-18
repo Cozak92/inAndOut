@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Portfolio\\InAndOut\\InAndOut\\InAndOut.csproj": {}
+    "E:\\Portfolio\\inAndOUt\\InAndOut\\InAndOut.csproj": {}
   },
   "projects": {
-    "E:\\Portfolio\\InAndOut\\InAndOut\\InAndOut.csproj": {
+    "E:\\Portfolio\\inAndOUt\\InAndOut\\InAndOut.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Portfolio\\InAndOut\\InAndOut\\InAndOut.csproj",
+        "projectUniqueName": "E:\\Portfolio\\inAndOUt\\InAndOut\\InAndOut.csproj",
         "projectName": "InAndOut",
-        "projectPath": "E:\\Portfolio\\InAndOut\\InAndOut\\InAndOut.csproj",
+        "projectPath": "E:\\Portfolio\\inAndOUt\\InAndOut\\InAndOut.csproj",
         "packagesPath": "C:\\Users\\SeungHyuk\\.nuget\\packages\\",
-        "outputPath": "E:\\Portfolio\\InAndOut\\InAndOut\\obj\\",
+        "outputPath": "E:\\Portfolio\\inAndOUt\\InAndOut\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
           "C:\\Users\\SeungHyuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -47,6 +43,10 @@
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[5.0.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
             }
           },
           "imports": [
